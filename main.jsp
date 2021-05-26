@@ -1,4 +1,4 @@
-<%@pageEncoding="UTF-8"%>
+<%@ page pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 	<head>
